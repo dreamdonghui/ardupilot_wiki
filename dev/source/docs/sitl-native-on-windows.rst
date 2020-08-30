@@ -168,7 +168,7 @@ determine where *MAVProxy* is sending packets:
 ::
 
     GUIDED> output
-    GUIDED> 2 outputs
+    2 outputs
     0: 127.0.0.1:14550
     1: 127.0.0.1:14551
 
